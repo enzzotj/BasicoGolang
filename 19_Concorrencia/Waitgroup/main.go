@@ -27,6 +27,6 @@ func main() {
 		waitGroup.Done()
 	}()
 
-	waitGroup.Wait()
+	waitGroup.Wait()	
 
 }
